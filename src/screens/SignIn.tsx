@@ -2,6 +2,7 @@ import { Heading, Icon, VStack, useTheme } from "native-base";
 import Logo from '../assets/logo_primary.svg'
 import { Input } from "../components/Input";
 import { Envelope, Key } from 'phosphor-react-native';
+import { Button } from "../components/Button";
 
 export function SignIn(){
 
@@ -24,6 +25,10 @@ export function SignIn(){
         placeholder="Senha"
         InputLeftElement={<Icon as={<Key color={colors.gray[300]} />} ml={4} />}
         secureTextEntry
+      />
+      <Button
+        title="Entrar"
+        w="full"
       />
     </VStack>
   )
