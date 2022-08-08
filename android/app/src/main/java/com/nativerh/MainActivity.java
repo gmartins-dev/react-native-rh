@@ -1,4 +1,4 @@
-package com.reactnativerh;
+package com.nativerh;
 
 import android.os.Build;
 import android.os.Bundle;
