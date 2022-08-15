@@ -2195,7 +2195,7 @@
     "prompts" "^2.4.0"
     "semver" "^6.3.0"
 
-"@react-native-firebase/app@^15.3.0":
+"@react-native-firebase/app@^15.3.0", "@react-native-firebase/app@15.3.0":
   "integrity" "sha512-q04Y4aBCCR/4peeTWuXzt/KeI95QMNML/1o6PVN2FSsXSz42z2QbZByIj4cHgSA2LqCSokIDcch01rwx0ZUHcA=="
   "resolved" "https://registry.npmjs.org/@react-native-firebase/app/-/app-15.3.0.tgz"
   "version" "15.3.0"
@@ -2203,6 +2203,16 @@
     "@expo/config-plugins" "^4.1.5"
     "opencollective-postinstall" "^2.0.1"
     "superstruct" "^0.6.2"
+
+"@react-native-firebase/auth@^15.3.0":
+  "integrity" "sha512-8QIl9SR2tBRjS3D4dq1MXESDn2pYtAwGvhNp+bG1MQUa0NdS4aTfpdsDSF0vKMAngkl2ZJufaqiaVlY74DoD+w=="
+  "resolved" "https://registry.npmjs.org/@react-native-firebase/auth/-/auth-15.3.0.tgz"
+  "version" "15.3.0"
+
+"@react-native-firebase/firestore@^15.3.0":
+  "integrity" "sha512-gaKMcGa8pbgj4enlygnuKSjK2WreEX2CgQTLUbCGOtnEx62pTt/AM6ZQKqoUrFTl10HDrCYT19a2d6cEIPX1Rw=="
+  "resolved" "https://registry.npmjs.org/@react-native-firebase/firestore/-/firestore-15.3.0.tgz"
+  "version" "15.3.0"
 
 "@react-native/assets@1.0.0":
   "integrity" "sha512-KrwSpS1tKI70wuKl68DwJZYEvXktDHdZMG0k2AXD/rJVSlB23/X2CB2cutVR0HwNMJIal9HOUOBB2rVfa6UGtQ=="
